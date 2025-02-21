@@ -4,10 +4,10 @@
 This project uses the K-Means Clustering algorithm to segment customers of a retail store based on their purchase history. By identifying customer groups, businesses can improve targeted marketing, personalized recommendations, and customer retention strategies.
 
 🛠️ Technologies Used
-Python 🐍
-Pandas, NumPy 📊
-Scikit-learn 🤖
-Matplotlib, Seaborn 📈
+Python 
+Pandas, NumPy 
+Scikit-learn 
+Matplotlib, Seaborn 
 
 📂 Dataset
 The dataset contains customer transactions with the following key attributes:
